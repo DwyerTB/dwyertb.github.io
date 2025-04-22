@@ -206,4 +206,33 @@ color : #98A889;
   background-image:none;
 }
 
+/* Footer styling */
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f8f9fa;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.footer .icons {
+  margin: 0 15px;
+  color: #9C6630;
+  transition: color 0.3s;
+}
+
+.footer .icons:hover {
+  color: #98A889;
+}
+
+/* Adjust the layout of the content */
+.container-fluid {
+  padding-bottom: 70px; /* Prevents overlap with fixed footer */
+}
+
+body {
+  padding-bottom: 70px; /* Prevents content from being hidden by footer */
+}
 
