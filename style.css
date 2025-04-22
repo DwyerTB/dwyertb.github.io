@@ -20,8 +20,10 @@
     font-size: 1.5em;
     color: #800000;
     text-align: left;
+    margin-top: 2.5vh;
     margin-bottom: 2vh;
 }
+
 .h5{
     font-family: Arial;
     font-size: 1.3em;
