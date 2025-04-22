@@ -3,29 +3,29 @@
     text-align: center;
     margin-top: 1vh;
     font-weight: bold;
-    color: #7554b3;
+    color: #800000;
 }
 
 .a{
-    color: #7554b3;
+    color: #800000;
     border-width: 0px;
 }
 .a:hover{
-    color: #f8d752;
+    color: #ffb347;
 }
 
 
 .h3{
     font-family: Arial;
     font-size: 1.5em;
-    color: #4ca78a;
+    color: #d46a6a;
     text-align: center;
     margin-bottom: 2vh;
 }
 .h5{
     font-family: Arial;
     font-size: 1.3em;
-    color: #4ca78a;
+    color: #d46a6a;
     align-self: flex-start;
     font-weight: bold;
     margin-top: 2.5vh;
@@ -35,7 +35,7 @@
 .h4{
     font-family: Arial;
     font-size: 1.7em;
-    color: #7554b3;
+    color: #800000;
     align-self: flex-start;
     font-weight: bold;
     margin-top: 3vh;
@@ -52,7 +52,7 @@
 .p2{
     font-family: Arial;
     align-self: flex-start;
-    color: #7554b3;
+    color: #800000;
     margin-bottom: 0;
 }
 .nav-link{
@@ -70,22 +70,22 @@
     font-size: 1.1em;
 }
 .fa-github:hover{
-    color: #f8d752;
+    color: #d46a6a;
 }
 .fa-twitter:hover{
-    color: #4ca78a;
+    color: #d46a6a ;
 }
 .ai-google-scholar:hover{
-    color: #7554b3;
+    color: #800000;
 }
 .ai-semantic-scholar:hover{
-    color: #f8d752;
+    color: #d46a6a;
 }
 .fa-envelope:hover{
-    color: #7554b3;
+    color: #800000;
 }
 .fa-linkedin:hover{
-    color: #4ca78a;
+    color: #d46a6a ;
 }
 
 .profile{
